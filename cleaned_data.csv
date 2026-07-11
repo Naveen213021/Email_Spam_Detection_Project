@@ -1,0 +1,601 @@
+email_id,subject,email_length,num_links,num_exclamations,capital_letter_percent,has_offer,sender_domain,spam_score,label
+1,Claim your reward,161.0,7.0,2,29.0,1,promo.net,100,spam
+2,Win cash now,189.0,3.0,2,31.0,1,outlook.com,83,spam
+3,Free vacation,201.0,5.0,2,35.0,1,company.com,100,spam
+4,Project meeting,177.0,2.0,1,1.0,0,gmail.com,52,ham
+5,Interview schedule,137.0,0.0,2,3.0,0,promo.net,22,ham
+6,Limited time offer,155.0,2.0,10,28.0,1,promo.net,81,spam
+7,Birthday wishes,166.0,1.0,1,14.0,1,yahoo.com,50,ham
+8,Claim your reward,238.0,8.0,5,30.0,1,promo.net,100,spam
+9,Class reminder,144.0,1.0,2,2.0,0,promo.net,39,ham
+10,Exclusive deal,98.0,5.0,8,25.0,1,offers.org,90,spam
+11,Class reminder,117.0,2.0,1,19.0,1,promo.net,58,ham
+12,Free vacation,129.0,5.0,3,27.0,1,offers.org,88,spam
+13,Birthday wishes,102.0,2.0,1,28.0,0,gmail.com,49,ham
+14,Free vacation,186.0,2.0,5,56.0,1,company.com,88,spam
+15,Click to verify,80.0,3.0,9,71.0,1,promo.net,99,spam
+16,Team update,170.0,1.0,2,13.0,0,offers.org,46,ham
+17,Family dinner,51.0,0.0,0,7.0,0,gmail.com,15,ham
+18,Family dinner,97.0,1.0,0,4.0,1,promo.net,35,ham
+19,Class reminder,62.0,2.0,2,30.0,0,outlook.com,50,ham
+20,Lottery winner,160.0,2.0,9,71.0,1,gmail.com,100,spam
+21,Limited time offer,172.0,3.0,3,63.0,1,promo.net,85,spam
+22,Claim your reward,197.0,2.0,7,23.0,1,gmail.com,81,spam
+23,Family dinner,94.0,1.0,2,11.0,1,gmail.com,35,ham
+24,Birthday wishes,152.0,1.0,1,2.0,0,gmail.com,34,ham
+25,Birthday wishes,71.0,2.0,0,6.0,0,company.com,36,ham
+26,Interview schedule,53.0,2.0,1,16.0,0,company.com,34,ham
+27,Class reminder,87.0,2.0,0,25.0,0,outlook.com,36,ham
+28,Click to verify,151.0,7.0,2,23.0,1,yahoo.com,100,spam
+29,Exclusive deal,174.0,8.0,7,66.0,1,gmail.com,100,spam
+30,Click to verify,110.0,4.0,5,81.0,1,promo.net,100,spam
+31,Birthday wishes,118.0,2.0,0,26.0,0,outlook.com,40,ham
+32,Family dinner,141.0,2.0,1,2.0,1,outlook.com,52,ham
+33,Monthly report,70.0,0.0,0,0.0,0,promo.net,14,ham
+34,Family dinner,151.0,2.0,1,4.0,0,gmail.com,33,ham
+35,Monthly report,164.0,2.0,0,13.0,0,company.com,35,ham
+36,Urgent account update,188.0,3.0,7,53.0,1,promo.net,100,spam
+37,Project meeting,120.0,1.0,2,18.0,1,promo.net,43,ham
+38,Project meeting,142.0,0.0,2,0.0,0,company.com,21,ham
+39,Monthly report,172.0,0.0,1,21.0,1,gmail.com,54,ham
+40,Limited time offer,130.0,2.0,3,84.0,1,outlook.com,95,spam
+41,Free vacation,173.0,4.0,10,85.0,1,company.com,100,spam
+42,Birthday wishes,159.0,0.0,2,16.0,0,promo.net,32,ham
+43,Family dinner,136.0,0.0,1,14.0,0,gmail.com,26,ham
+44,Invoice attached,107.0,0.0,0,30.0,0,company.com,26,ham
+45,Birthday wishes,86.0,2.0,0,12.0,1,company.com,40,ham
+46,Lottery winner,191.0,5.0,7,73.0,1,company.com,100,spam
+47,Exclusive deal,64.0,4.0,10,78.0,1,outlook.com,100,spam
+48,Urgent account update,191.0,2.0,3,49.0,1,gmail.com,75,spam
+49,Win cash now,259.0,3.0,6,36.0,1,outlook.com,100,spam
+50,Click to verify,239.0,4.0,3,55.0,1,gmail.com,100,spam
+51,Monthly report,98.0,0.0,2,2.0,0,gmail.com,30,ham
+52,Monthly report,97.0,0.0,1,0.0,0,promo.net,20,ham
+53,Interview schedule,63.0,0.0,2,22.0,0,gmail.com,19,ham
+54,Claim your reward,111.0,4.0,6,87.0,1,company.com,100,spam
+55,Family dinner,99.0,1.0,0,8.0,0,gmail.com,16,ham
+56,Invoice attached,161.0,1.0,0,29.0,1,gmail.com,63,ham
+57,Birthday wishes,169.0,1.0,2,9.0,0,company.com,42,ham
+58,Claim your reward,163.0,4.0,2,23.0,1,gmail.com,78,spam
+59,Interview schedule,140.0,2.0,0,2.0,1,promo.net,30,ham
+60,Interview schedule,41.0,1.0,0,5.0,0,outlook.com,6,ham
+61,Exclusive deal,200.0,4.0,5,24.0,1,yahoo.com,92,spam
+62,Win cash now,145.0,2.0,3,80.0,1,yahoo.com,100,spam
+63,Invoice attached,126.0,0.0,0,8.0,0,company.com,29,ham
+64,Team update,35.0,1.0,1,20.0,0,gmail.com,32,ham
+65,Family dinner,129.0,1.0,2,15.0,0,yahoo.com,48,ham
+66,Project meeting,161.0,2.0,1,23.0,0,promo.net,58,ham
+67,Project meeting,179.0,2.0,2,30.0,0,gmail.com,50,ham
+68,Exclusive deal,86.0,5.0,9,26.0,1,offers.org,90,spam
+69,Invoice attached,155.0,1.0,0,14.0,0,offers.org,42,ham
+70,Monthly report,126.0,0.0,2,23.0,1,yahoo.com,41,ham
+71,Invoice attached,82.0,0.0,2,20.0,1,outlook.com,38,ham
+72,Urgent account update,256.0,2.0,5,29.0,1,promo.net,85,spam
+73,Urgent account update,219.0,6.0,4,21.0,1,outlook.com,100,spam
+74,Monthly report,85.0,2.0,1,9.0,0,outlook.com,39,ham
+75,Monthly report,170.0,0.0,1,2.0,1,gmail.com,38,ham
+76,Birthday wishes,98.0,1.0,0,29.0,0,gmail.com,42,ham
+77,Urgent account update,152.0,3.0,10,55.0,1,gmail.com,100,spam
+78,Click to verify,160.0,2.0,4,20.0,1,outlook.com,74,spam
+79,Claim your reward,166.0,4.0,8,60.0,1,gmail.com,100,spam
+80,Exclusive deal,161.0,2.0,5,21.0,1,offers.org,72,spam
+81,Free vacation,160.0,5.0,3,66.0,1,outlook.com,100,spam
+82,Interview schedule,56.0,0.0,2,9.0,0,company.com,16,ham
+83,Class reminder,78.0,1.0,1,28.0,0,offers.org,35,ham
+84,Invoice attached,50.0,0.0,2,13.0,1,promo.net,22,ham
+85,Interview schedule,154.0,0.0,2,4.0,0,outlook.com,33,ham
+86,Urgent account update,125.0,7.0,6,23.0,1,offers.org,100,spam
+87,Lottery winner,90.0,3.0,4,29.0,1,company.com,77,spam
+88,Birthday wishes,170.0,0.0,1,29.0,0,outlook.com,43,ham
+89,Limited time offer,122.0,2.0,4,63.0,1,promo.net,73,spam
+90,Exclusive deal,126.0,8.0,5,22.0,1,offers.org,100,spam
+91,Limited time offer,156.0,4.0,7,27.0,1,outlook.com,95,spam
+92,Class reminder,62.0,2.0,2,16.0,0,gmail.com,35,ham
+93,Team update,132.0,2.0,1,13.0,0,gmail.com,38,ham
+94,Click to verify,210.0,5.0,2,29.0,1,outlook.com,100,spam
+95,Birthday wishes,93.0,0.0,0,4.0,0,promo.net,8,ham
+96,Birthday wishes,51.0,2.0,0,0.0,0,company.com,31,ham
+97,Interview schedule,62.0,2.0,1,16.0,1,offers.org,37,ham
+98,Urgent account update,194.0,6.0,5,69.0,1,yahoo.com,100,spam
+99,Project meeting,32.0,2.0,1,14.0,0,yahoo.com,39,ham
+100,Invoice attached,151.0,2.0,0,17.0,0,gmail.com,48,ham
+101,Interview schedule,44.0,0.0,0,15.0,1,gmail.com,20,ham
+102,Lottery winner,154.0,3.0,9,24.0,1,offers.org,93,spam
+103,Class reminder,131.0,0.0,0,25.0,0,offers.org,35,ham
+104,Click to verify,111.0,4.0,5,23.0,1,outlook.com,90,spam
+105,Urgent account update,87.0,6.0,9,43.0,1,company.com,100,spam
+106,Win cash now,212.0,3.0,8,26.0,1,company.com,90,spam
+107,Family dinner,136.0,0.0,2,1.0,0,outlook.com,30,ham
+108,Class reminder,58.0,0.0,0,10.0,0,company.com,22,ham
+109,Birthday wishes,38.0,1.0,2,23.0,1,yahoo.com,38,ham
+110,Monthly report,30.0,0.0,1,2.0,0,outlook.com,1,ham
+111,Invoice attached,127.0,1.0,1,26.0,1,gmail.com,41,ham
+112,Invoice attached,125.0,2.0,1,6.0,0,yahoo.com,45,ham
+113,Lottery winner,123.0,2.0,8,25.0,1,outlook.com,100,spam
+114,Project meeting,95.0,0.0,2,2.0,0,yahoo.com,19,ham
+115,Win cash now,127.0,7.0,7,55.0,1,yahoo.com,100,spam
+116,Monthly report,36.0,0.0,0,15.0,1,outlook.com,19,ham
+117,Birthday wishes,63.0,1.0,0,0.0,0,offers.org,11,ham
+118,Class reminder,111.0,1.0,1,25.0,0,promo.net,33,ham
+119,Claim your reward,123.0,5.0,3,24.0,1,outlook.com,94,spam
+120,Family dinner,139.0,0.0,0,8.0,0,company.com,17,ham
+121,Birthday wishes,74.0,0.0,0,13.0,1,promo.net,23,ham
+122,Monthly report,126.0,1.0,1,18.0,0,yahoo.com,31,ham
+123,Invoice attached,142.0,0.0,0,7.0,0,company.com,23,ham
+124,Invoice attached,113.0,0.0,1,8.0,0,promo.net,29,ham
+125,Free vacation,227.0,5.0,2,33.0,1,gmail.com,100,spam
+126,Invoice attached,144.0,1.0,0,28.0,0,company.com,33,ham
+127,Limited time offer,79.0,4.0,10,42.0,1,outlook.com,100,spam
+128,Win cash now,87.0,7.0,7,47.0,1,gmail.com,100,spam
+129,Win cash now,112.0,4.0,2,46.0,1,gmail.com,83,spam
+130,Exclusive deal,107.0,6.0,6,29.0,1,company.com,94,spam
+131,Birthday wishes,46.0,1.0,0,25.0,1,offers.org,41,ham
+132,Free vacation,227.0,3.0,8,54.0,1,outlook.com,100,spam
+133,Team update,43.0,1.0,2,18.0,0,outlook.com,30,ham
+134,Exclusive deal,224.0,3.0,8,71.0,1,company.com,100,spam
+135,Family dinner,138.0,0.0,0,12.0,0,outlook.com,20,ham
+136,Win cash now,201.0,3.0,8,31.0,1,promo.net,100,spam
+137,Family dinner,67.0,1.0,1,5.0,0,gmail.com,16,ham
+138,Limited time offer,137.0,3.0,2,81.0,1,yahoo.com,83,spam
+139,Team update,52.0,2.0,2,22.0,0,offers.org,35,ham
+140,Invoice attached,151.0,0.0,2,6.0,0,outlook.com,37,ham
+141,Exclusive deal,91.0,3.0,5,44.0,1,gmail.com,87,spam
+142,Project meeting,112.0,0.0,1,19.0,1,promo.net,47,ham
+143,Team update,108.0,2.0,0,13.0,1,offers.org,48,ham
+144,Birthday wishes,75.0,0.0,0,19.0,1,outlook.com,25,ham
+145,Birthday wishes,75.0,1.0,1,3.0,0,company.com,24,ham
+146,Monthly report,143.0,2.0,2,21.0,0,gmail.com,61,ham
+147,Exclusive deal,259.0,7.0,10,30.0,1,gmail.com,100,spam
+148,Family dinner,36.0,0.0,2,23.0,0,company.com,14,ham
+149,Birthday wishes,103.0,0.0,2,25.0,0,gmail.com,32,ham
+150,Interview schedule,70.0,1.0,2,8.0,1,company.com,35,ham
+151,Birthday wishes,83.0,2.0,1,19.0,0,yahoo.com,40,ham
+152,Claim your reward,163.0,3.0,6,61.0,1,outlook.com,95,spam
+153,Interview schedule,59.0,2.0,0,20.0,0,outlook.com,39,ham
+154,Monthly report,94.0,2.0,2,27.0,1,offers.org,57,ham
+155,Exclusive deal,207.0,3.0,7,62.0,1,gmail.com,100,spam
+156,Win cash now,135.0,8.0,10,52.0,1,yahoo.com,100,spam
+157,Class reminder,30.0,2.0,0,7.0,0,yahoo.com,32,ham
+158,Team update,161.0,1.0,0,4.0,1,company.com,52,ham
+159,Project meeting,43.0,0.0,2,11.0,0,gmail.com,22,ham
+160,Limited time offer,165.0,6.0,6,37.0,1,company.com,100,spam
+161,Birthday wishes,70.0,0.0,0,29.0,0,offers.org,16,ham
+162,Monthly report,67.0,2.0,1,12.0,0,gmail.com,24,ham
+163,Class reminder,178.0,1.0,2,29.0,1,company.com,57,ham
+164,Project meeting,45.0,2.0,0,12.0,0,company.com,22,ham
+165,Free vacation,63.0,6.0,10,45.0,1,company.com,100,spam
+166,Lottery winner,216.0,3.0,10,59.0,1,gmail.com,100,spam
+167,Birthday wishes,167.0,0.0,1,27.0,1,offers.org,52,ham
+168,Click to verify,104.0,3.0,3,53.0,1,company.com,89,spam
+169,Exclusive deal,251.0,7.0,6,26.0,1,yahoo.com,100,spam
+170,Team update,163.0,1.0,1,20.0,0,gmail.com,49,ham
+171,Urgent account update,120.0,8.0,5,40.0,1,offers.org,100,spam
+172,Lottery winner,144.0,6.0,5,68.0,1,offers.org,100,spam
+173,Project meeting,36.0,1.0,2,7.0,0,company.com,24,ham
+174,Monthly report,174.0,0.0,0,1.0,0,gmail.com,19,ham
+175,Family dinner,118.0,0.0,2,23.0,0,gmail.com,17,ham
+176,Project meeting,47.0,2.0,0,2.0,0,company.com,30,ham
+177,Monthly report,128.0,0.0,0,6.0,0,gmail.com,12,ham
+178,Free vacation,252.0,7.0,6,81.0,1,gmail.com,100,spam
+179,Limited time offer,135.0,4.0,7,74.0,1,yahoo.com,100,spam
+180,Urgent account update,72.0,7.0,7,61.0,1,promo.net,100,spam
+181,Interview schedule,37.0,1.0,0,13.0,0,yahoo.com,23,ham
+182,Invoice attached,53.0,2.0,1,5.0,1,gmail.com,44,ham
+183,Win cash now,61.0,4.0,9,32.0,1,outlook.com,85,spam
+184,Class reminder,161.0,1.0,2,30.0,0,yahoo.com,46,ham
+185,Invoice attached,157.0,0.0,0,30.0,0,outlook.com,42,ham
+186,Class reminder,121.0,0.0,1,29.0,1,offers.org,34,ham
+187,Project meeting,125.0,0.0,1,8.0,1,promo.net,40,ham
+188,Limited time offer,177.0,3.0,10,24.0,1,yahoo.com,100,spam
+189,Claim your reward,175.0,7.0,10,61.0,1,company.com,100,spam
+190,Interview schedule,178.0,0.0,0,10.0,1,offers.org,37,ham
+191,Interview schedule,107.0,2.0,2,4.0,0,company.com,39,ham
+192,Class reminder,71.0,0.0,1,30.0,0,yahoo.com,18,ham
+193,Free vacation,110.0,5.0,4,38.0,1,yahoo.com,92,spam
+194,Invoice attached,57.0,2.0,0,8.0,0,outlook.com,31,ham
+195,Lottery winner,171.0,7.0,5,84.0,1,offers.org,100,spam
+196,Family dinner,126.0,2.0,2,12.0,0,offers.org,38,ham
+197,Team update,176.0,2.0,2,20.0,1,company.com,76,ham
+198,Invoice attached,76.0,2.0,0,14.0,1,yahoo.com,41,ham
+199,Monthly report,137.0,0.0,1,22.0,0,yahoo.com,35,ham
+200,Project meeting,134.0,2.0,2,21.0,0,offers.org,50,ham
+201,Team update,155.0,0.0,0,8.0,0,company.com,22,ham
+202,Monthly report,177.0,1.0,2,6.0,1,promo.net,42,ham
+203,Class reminder,163.0,1.0,1,23.0,1,company.com,49,ham
+204,Free vacation,246.0,6.0,7,27.0,1,yahoo.com,100,spam
+205,Win cash now,63.0,2.0,8,73.0,1,offers.org,89,spam
+206,Monthly report,87.0,1.0,2,12.0,0,outlook.com,35,ham
+207,Claim your reward,258.0,2.0,5,80.0,1,offers.org,100,spam
+208,Family dinner,120.0,2.0,2,26.0,1,outlook.com,59,ham
+209,Family dinner,150.0,1.0,0,8.0,1,offers.org,41,ham
+210,Family dinner,153.0,0.0,2,25.0,0,yahoo.com,35,ham
+211,Class reminder,152.0,1.0,1,19.0,0,offers.org,42,ham
+212,Urgent account update,158.0,2.0,3,61.0,1,company.com,89,spam
+213,Project meeting,32.0,0.0,0,20.0,0,yahoo.com,21,ham
+214,Claim your reward,119.0,3.0,9,64.0,1,company.com,100,spam
+215,Family dinner,53.0,2.0,2,25.0,0,company.com,44,ham
+216,Monthly report,142.0,2.0,0,17.0,0,yahoo.com,47,ham
+217,Claim your reward,181.0,5.0,10,27.0,1,outlook.com,100,spam
+218,Birthday wishes,93.0,1.0,0,23.0,0,company.com,28,ham
+219,Birthday wishes,105.0,1.0,1,13.0,1,offers.org,33,ham
+220,Exclusive deal,222.0,7.0,2,22.0,1,promo.net,100,spam
+221,Class reminder,54.0,2.0,1,15.0,0,gmail.com,29,ham
+222,Family dinner,116.0,2.0,2,11.0,0,outlook.com,33,ham
+223,Invoice attached,102.0,1.0,1,13.0,0,promo.net,22,ham
+224,Interview schedule,120.0,1.0,1,10.0,0,promo.net,34,ham
+225,Birthday wishes,60.0,1.0,0,10.0,0,company.com,29,ham
+226,Monthly report,40.0,1.0,2,17.0,1,promo.net,44,ham
+227,Urgent account update,87.0,2.0,2,44.0,1,outlook.com,71,spam
+228,Project meeting,158.0,2.0,2,12.0,0,offers.org,59,ham
+229,Monthly report,84.0,0.0,2,20.0,1,offers.org,31,ham
+230,Claim your reward,69.0,5.0,3,21.0,1,yahoo.com,71,spam
+231,Interview schedule,107.0,0.0,1,1.0,0,gmail.com,22,ham
+232,Project meeting,157.0,2.0,2,1.0,0,outlook.com,53,ham
+233,Team update,144.0,0.0,0,21.0,1,promo.net,48,ham
+234,Family dinner,151.0,1.0,2,3.0,0,offers.org,42,ham
+235,Claim your reward,220.0,2.0,8,20.0,1,gmail.com,84,spam
+236,Monthly report,85.0,0.0,0,15.0,0,yahoo.com,26,ham
+237,Claim your reward,72.0,4.0,4,30.0,1,yahoo.com,86,spam
+238,Birthday wishes,147.0,2.0,1,29.0,0,offers.org,43,ham
+239,Win cash now,226.0,7.0,3,69.0,1,yahoo.com,100,spam
+240,Family dinner,154.0,2.0,0,10.0,0,promo.net,47,ham
+241,Family dinner,67.0,0.0,1,30.0,0,offers.org,28,ham
+242,Birthday wishes,99.0,2.0,1,9.0,0,gmail.com,46,ham
+243,Class reminder,33.0,0.0,2,26.0,0,promo.net,24,ham
+244,Invoice attached,126.0,1.0,2,12.0,0,outlook.com,36,ham
+245,Class reminder,126.0,1.0,1,5.0,0,yahoo.com,21,ham
+246,Family dinner,100.0,2.0,2,23.0,1,yahoo.com,63,ham
+247,Click to verify,157.0,3.0,5,59.0,1,promo.net,87,spam
+248,Birthday wishes,82.0,1.0,2,24.0,0,outlook.com,39,ham
+249,Class reminder,46.0,0.0,1,18.0,0,promo.net,17,ham
+250,Invoice attached,78.0,0.0,0,2.0,0,offers.org,11,ham
+251,Exclusive deal,163.0,8.0,10,39.0,1,company.com,100,spam
+252,Birthday wishes,125.0,0.0,1,20.0,1,gmail.com,33,ham
+253,Win cash now,148.0,4.0,10,22.0,1,gmail.com,94,spam
+254,Click to verify,210.0,6.0,5,53.0,1,yahoo.com,100,spam
+255,Click to verify,256.0,6.0,4,52.0,1,gmail.com,100,spam
+256,Claim your reward,156.0,2.0,2,26.0,1,gmail.com,72,spam
+257,Click to verify,184.0,8.0,3,70.0,1,gmail.com,100,spam
+258,Limited time offer,224.0,2.0,10,70.0,1,company.com,100,spam
+259,Class reminder,90.0,2.0,0,5.0,0,yahoo.com,32,ham
+260,Win cash now,72.0,4.0,10,81.0,1,gmail.com,100,spam
+261,Win cash now,110.0,7.0,6,76.0,1,offers.org,100,spam
+262,Class reminder,95.0,1.0,0,11.0,1,outlook.com,31,ham
+263,Family dinner,33.0,1.0,2,29.0,0,gmail.com,25,ham
+264,Invoice attached,49.0,2.0,1,28.0,0,outlook.com,30,ham
+265,Team update,35.0,2.0,0,14.0,0,yahoo.com,23,ham
+266,Class reminder,66.0,1.0,0,23.0,0,company.com,31,ham
+267,Family dinner,142.0,0.0,1,13.0,1,company.com,33,ham
+268,Urgent account update,145.0,8.0,4,53.0,1,outlook.com,100,spam
+269,Click to verify,89.0,3.0,10,27.0,1,offers.org,84,spam
+270,Interview schedule,60.0,1.0,0,11.0,1,yahoo.com,28,ham
+271,Monthly report,129.0,1.0,1,28.0,0,gmail.com,40,ham
+272,Win cash now,173.0,8.0,10,23.0,1,promo.net,100,spam
+273,Interview schedule,126.0,1.0,1,1.0,1,company.com,30,ham
+274,Family dinner,76.0,2.0,0,22.0,0,company.com,45,ham
+275,Free vacation,215.0,7.0,9,55.0,1,company.com,100,spam
+276,Limited time offer,209.0,4.0,5,21.0,1,gmail.com,100,spam
+277,Win cash now,192.0,8.0,7,62.0,1,yahoo.com,100,spam
+278,Birthday wishes,53.0,0.0,1,29.0,1,company.com,30,ham
+279,Exclusive deal,69.0,3.0,7,20.0,1,yahoo.com,79,spam
+280,Monthly report,60.0,1.0,2,7.0,0,offers.org,27,ham
+281,Project meeting,104.0,0.0,2,15.0,1,promo.net,27,ham
+282,Family dinner,35.0,0.0,0,7.0,0,company.com,1,ham
+283,Win cash now,64.0,2.0,5,53.0,1,gmail.com,80,spam
+284,Birthday wishes,163.0,0.0,2,14.0,0,yahoo.com,29,ham
+285,Project meeting,99.0,0.0,1,15.0,0,gmail.com,16,ham
+286,Claim your reward,198.0,6.0,5,49.0,1,company.com,100,spam
+287,Team update,72.0,0.0,2,12.0,1,promo.net,40,ham
+288,Team update,43.0,1.0,1,12.0,0,yahoo.com,25,ham
+289,Class reminder,132.0,2.0,0,10.0,0,offers.org,40,ham
+290,Lottery winner,229.0,7.0,2,66.0,1,gmail.com,100,spam
+291,Exclusive deal,170.0,3.0,10,22.0,1,company.com,92,spam
+292,Team update,146.0,2.0,0,25.0,0,gmail.com,57,ham
+293,Interview schedule,168.0,0.0,2,3.0,0,gmail.com,38,ham
+294,Limited time offer,70.0,4.0,3,59.0,1,yahoo.com,95,spam
+295,Win cash now,212.0,6.0,6,30.0,1,outlook.com,100,spam
+296,Family dinner,142.0,0.0,2,4.0,0,outlook.com,36,ham
+297,Limited time offer,248.0,2.0,10,56.0,1,outlook.com,100,spam
+298,Invoice attached,128.0,0.0,2,22.0,0,outlook.com,41,ham
+299,Click to verify,180.0,8.0,6,23.0,1,company.com,100,spam
+300,Lottery winner,209.0,5.0,2,65.0,1,company.com,100,spam
+301,Exclusive deal,185.0,4.0,6,47.0,1,yahoo.com,97,spam
+302,Family dinner,171.0,0.0,2,27.0,0,outlook.com,33,ham
+303,Birthday wishes,120.0,2.0,0,16.0,0,offers.org,34,ham
+304,Exclusive deal,95.0,7.0,5,55.0,1,promo.net,100,spam
+305,Birthday wishes,98.0,2.0,2,20.0,0,outlook.com,37,ham
+306,Free vacation,187.0,5.0,4,73.0,1,yahoo.com,100,spam
+307,Team update,145.0,2.0,1,9.0,0,yahoo.com,45,ham
+308,Lottery winner,225.0,4.0,2,83.0,1,outlook.com,100,spam
+309,Urgent account update,97.0,5.0,8,49.0,1,gmail.com,100,spam
+310,Limited time offer,143.0,3.0,8,21.0,1,gmail.com,78,spam
+311,Click to verify,136.0,6.0,6,88.0,1,promo.net,100,spam
+312,Team update,129.0,1.0,1,1.0,0,outlook.com,20,ham
+313,Invoice attached,55.0,1.0,1,16.0,1,offers.org,42,ham
+314,Family dinner,78.0,1.0,1,12.0,1,promo.net,45,ham
+315,Free vacation,103.0,4.0,7,66.0,1,gmail.com,100,spam
+316,Monthly report,105.0,2.0,1,26.0,1,offers.org,50,ham
+317,Invoice attached,159.0,0.0,1,5.0,0,offers.org,36,ham
+318,Class reminder,175.0,2.0,2,23.0,0,offers.org,60,ham
+319,Win cash now,138.0,7.0,10,20.0,1,yahoo.com,100,spam
+320,Project meeting,37.0,0.0,0,15.0,0,offers.org,18,ham
+321,Family dinner,177.0,0.0,1,19.0,0,company.com,32,ham
+322,Monthly report,37.0,0.0,0,5.0,1,outlook.com,26,ham
+323,Project meeting,33.0,2.0,2,10.0,0,offers.org,27,ham
+324,Claim your reward,68.0,4.0,3,23.0,1,yahoo.com,68,spam
+325,Team update,35.0,0.0,0,28.0,1,promo.net,17,ham
+326,Invoice attached,93.0,0.0,0,5.0,0,yahoo.com,5,ham
+327,Birthday wishes,107.0,1.0,2,8.0,1,gmail.com,40,ham
+328,Invoice attached,135.0,1.0,1,28.0,1,gmail.com,49,ham
+329,Claim your reward,151.0,5.0,4,20.0,1,yahoo.com,94,spam
+330,Monthly report,115.0,2.0,1,10.0,1,offers.org,42,ham
+331,Team update,119.0,2.0,0,12.0,0,outlook.com,37,ham
+332,Lottery winner,68.0,4.0,2,63.0,1,company.com,80,spam
+333,Monthly report,80.0,1.0,2,26.0,0,promo.net,40,ham
+334,Invoice attached,70.0,1.0,1,6.0,1,outlook.com,43,ham
+335,Invoice attached,106.0,1.0,2,6.0,0,outlook.com,26,ham
+336,Interview schedule,142.0,2.0,1,17.0,0,outlook.com,56,ham
+337,Family dinner,61.0,2.0,2,2.0,0,offers.org,33,ham
+338,Claim your reward,139.0,2.0,8,31.0,1,offers.org,78,spam
+339,Invoice attached,112.0,0.0,2,28.0,0,gmail.com,41,ham
+340,Interview schedule,79.0,0.0,2,9.0,0,company.com,20,ham
+341,Lottery winner,132.0,4.0,8,79.0,1,offers.org,100,spam
+342,Family dinner,100.0,0.0,0,11.0,0,outlook.com,9,ham
+343,Birthday wishes,93.0,1.0,1,28.0,0,company.com,35,ham
+344,Limited time offer,242.0,7.0,2,71.0,1,gmail.com,100,spam
+345,Limited time offer,253.0,4.0,4,68.0,1,offers.org,100,spam
+346,Family dinner,174.0,0.0,2,15.0,0,outlook.com,46,ham
+347,Win cash now,126.0,8.0,6,25.0,1,promo.net,100,spam
+348,Invoice attached,58.0,0.0,1,6.0,0,offers.org,6,ham
+349,Lottery winner,251.0,6.0,5,55.0,1,promo.net,100,spam
+350,Lottery winner,173.0,4.0,10,77.0,1,promo.net,100,spam
+351,Invoice attached,139.0,2.0,2,27.0,0,outlook.com,49,ham
+352,Urgent account update,104.0,6.0,4,50.0,1,promo.net,100,spam
+353,Win cash now,103.0,4.0,7,72.0,1,gmail.com,100,spam
+354,Family dinner,64.0,2.0,2,15.0,1,company.com,44,ham
+355,Click to verify,94.0,7.0,7,58.0,1,company.com,100,spam
+356,Invoice attached,115.0,2.0,0,17.0,1,company.com,44,ham
+357,Birthday wishes,133.0,0.0,0,22.0,0,gmail.com,29,ham
+358,Project meeting,45.0,1.0,1,6.0,0,offers.org,19,ham
+359,Monthly report,71.0,1.0,1,14.0,0,yahoo.com,22,ham
+360,Project meeting,32.0,1.0,1,2.0,0,offers.org,24,ham
+361,Click to verify,171.0,5.0,5,89.0,1,yahoo.com,100,spam
+362,Free vacation,224.0,4.0,6,51.0,1,gmail.com,100,spam
+363,Project meeting,131.0,0.0,1,11.0,0,offers.org,33,ham
+364,Family dinner,56.0,2.0,1,23.0,0,outlook.com,31,ham
+365,Class reminder,111.0,0.0,1,4.0,0,yahoo.com,18,ham
+366,Free vacation,205.0,8.0,8,26.0,1,company.com,100,spam
+367,Family dinner,106.0,2.0,2,20.0,0,company.com,42,ham
+368,Click to verify,223.0,5.0,3,25.0,1,outlook.com,100,spam
+369,Exclusive deal,60.0,2.0,10,74.0,1,company.com,93,spam
+370,Win cash now,126.0,7.0,8,63.0,1,gmail.com,100,spam
+371,Claim your reward,245.0,3.0,8,57.0,1,gmail.com,100,spam
+372,Class reminder,175.0,0.0,1,2.0,0,promo.net,34,ham
+373,Family dinner,132.0,2.0,2,2.0,0,offers.org,42,ham
+374,Interview schedule,174.0,2.0,1,30.0,0,outlook.com,67,ham
+375,Exclusive deal,195.0,7.0,2,44.0,1,company.com,100,spam
+376,Family dinner,178.0,1.0,2,18.0,1,yahoo.com,63,ham
+377,Click to verify,161.0,4.0,3,49.0,1,company.com,90,spam
+378,Monthly report,86.0,1.0,2,3.0,0,promo.net,26,ham
+379,Invoice attached,171.0,1.0,0,17.0,0,offers.org,46,ham
+380,Monthly report,134.0,2.0,0,25.0,1,company.com,62,ham
+381,Monthly report,161.0,0.0,1,26.0,1,promo.net,42,ham
+382,Invoice attached,174.0,1.0,0,4.0,0,promo.net,26,ham
+383,Win cash now,155.0,2.0,2,47.0,1,outlook.com,73,spam
+384,Claim your reward,169.0,2.0,5,34.0,1,offers.org,80,spam
+385,Exclusive deal,255.0,7.0,2,52.0,1,gmail.com,100,spam
+386,Exclusive deal,244.0,2.0,2,65.0,1,gmail.com,100,spam
+387,Monthly report,38.0,2.0,0,8.0,0,company.com,28,ham
+388,Click to verify,89.0,8.0,2,82.0,1,gmail.com,100,spam
+389,Family dinner,68.0,2.0,1,27.0,1,company.com,58,ham
+390,Interview schedule,143.0,0.0,0,10.0,0,outlook.com,31,ham
+391,Project meeting,39.0,0.0,0,19.0,1,outlook.com,18,ham
+392,Birthday wishes,130.0,0.0,2,16.0,0,yahoo.com,31,ham
+393,Interview schedule,63.0,2.0,2,1.0,0,company.com,32,ham
+394,Class reminder,177.0,1.0,1,29.0,0,yahoo.com,39,ham
+395,Click to verify,145.0,3.0,2,51.0,1,outlook.com,91,spam
+396,Claim your reward,246.0,7.0,4,54.0,1,outlook.com,100,spam
+397,Urgent account update,151.0,6.0,10,37.0,1,offers.org,100,spam
+398,Monthly report,81.0,1.0,2,18.0,0,yahoo.com,32,ham
+399,Invoice attached,66.0,2.0,0,9.0,0,offers.org,30,ham
+400,Invoice attached,119.0,2.0,2,12.0,0,gmail.com,44,ham
+401,Birthday wishes,158.0,1.0,0,25.0,0,yahoo.com,35,ham
+402,Win cash now,231.0,5.0,8,77.0,1,outlook.com,100,spam
+403,Family dinner,180.0,0.0,0,9.0,0,yahoo.com,38,ham
+404,Class reminder,48.0,0.0,2,29.0,0,promo.net,19,ham
+405,Exclusive deal,179.0,4.0,8,28.0,1,outlook.com,100,spam
+406,Interview schedule,95.0,2.0,0,24.0,0,offers.org,37,ham
+407,Win cash now,115.0,2.0,8,77.0,1,company.com,100,spam
+408,Free vacation,110.0,3.0,2,36.0,1,promo.net,61,spam
+409,Exclusive deal,244.0,3.0,2,44.0,1,yahoo.com,100,spam
+410,Project meeting,112.0,0.0,0,10.0,0,offers.org,10,ham
+411,Team update,116.0,0.0,0,27.0,1,gmail.com,30,ham
+412,Class reminder,156.0,2.0,1,8.0,1,gmail.com,45,ham
+413,Class reminder,44.0,1.0,2,22.0,0,company.com,21,ham
+414,Limited time offer,96.0,6.0,3,65.0,1,yahoo.com,100,spam
+415,Claim your reward,228.0,6.0,7,49.0,1,offers.org,100,spam
+416,Click to verify,255.0,2.0,6,90.0,1,offers.org,100,spam
+417,Class reminder,163.0,2.0,1,4.0,0,gmail.com,52,ham
+418,Class reminder,68.0,2.0,0,12.0,0,gmail.com,40,ham
+419,Win cash now,199.0,6.0,5,43.0,1,yahoo.com,100,spam
+420,Claim your reward,105.0,8.0,4,87.0,1,gmail.com,100,spam
+421,Invoice attached,143.0,1.0,0,20.0,0,outlook.com,41,ham
+422,Win cash now,87.0,7.0,2,28.0,1,offers.org,98,spam
+423,Class reminder,45.0,0.0,2,12.0,1,outlook.com,37,ham
+424,Project meeting,94.0,0.0,1,22.0,1,company.com,32,ham
+425,Exclusive deal,254.0,5.0,6,58.0,1,outlook.com,100,spam
+426,Family dinner,152.0,1.0,0,26.0,0,yahoo.com,33,ham
+427,Click to verify,123.0,3.0,7,77.0,1,company.com,100,spam
+428,Limited time offer,248.0,4.0,2,76.0,1,company.com,100,spam
+429,Interview schedule,36.0,0.0,0,29.0,0,company.com,16,ham
+430,Exclusive deal,84.0,8.0,4,79.0,1,offers.org,100,spam
+431,Exclusive deal,224.0,7.0,8,62.0,1,gmail.com,100,spam
+432,Win cash now,69.0,3.0,10,49.0,1,promo.net,96,spam
+433,Project meeting,42.0,1.0,0,28.0,0,gmail.com,30,ham
+434,Team update,30.0,0.0,0,21.0,0,offers.org,19,ham
+435,Monthly report,165.0,1.0,1,30.0,0,yahoo.com,43,ham
+436,Invoice attached,48.0,1.0,2,5.0,0,yahoo.com,21,ham
+437,Win cash now,126.0,6.0,2,72.0,1,promo.net,100,spam
+438,Exclusive deal,236.0,2.0,9,89.0,1,yahoo.com,100,spam
+439,Lottery winner,250.0,7.0,6,71.0,1,outlook.com,100,spam
+440,Team update,68.0,1.0,1,28.0,1,company.com,52,ham
+441,Urgent account update,237.0,6.0,8,50.0,1,company.com,100,spam
+442,Win cash now,243.0,2.0,8,61.0,1,offers.org,100,spam
+443,Class reminder,146.0,2.0,0,15.0,1,promo.net,53,ham
+444,Team update,90.0,2.0,2,27.0,1,yahoo.com,48,ham
+445,Urgent account update,216.0,7.0,7,29.0,1,offers.org,100,spam
+446,Interview schedule,97.0,1.0,2,11.0,1,promo.net,39,ham
+447,Monthly report,165.0,1.0,2,6.0,0,yahoo.com,38,ham
+448,Family dinner,147.0,0.0,2,30.0,0,yahoo.com,42,ham
+449,Lottery winner,91.0,5.0,4,52.0,1,outlook.com,89,spam
+450,Urgent account update,175.0,7.0,3,55.0,1,outlook.com,100,spam
+451,Monthly report,126.0,2.0,1,23.0,0,promo.net,43,ham
+452,Claim your reward,153.0,5.0,10,50.0,1,promo.net,100,spam
+453,Team update,94.0,0.0,2,6.0,0,promo.net,20,ham
+454,Claim your reward,138.0,7.0,10,55.0,1,yahoo.com,100,spam
+455,Click to verify,126.0,6.0,9,31.0,1,company.com,100,spam
+456,Interview schedule,125.0,0.0,2,14.0,1,yahoo.com,31,ham
+457,Interview schedule,134.0,1.0,2,19.0,0,yahoo.com,38,ham
+458,Claim your reward,218.0,3.0,7,28.0,1,offers.org,94,spam
+459,Free vacation,80.0,8.0,9,68.0,1,outlook.com,100,spam
+460,Win cash now,87.0,6.0,9,79.0,1,offers.org,100,spam
+461,Click to verify,105.0,2.0,9,70.0,1,outlook.com,90,spam
+462,Project meeting,89.0,2.0,0,12.0,0,offers.org,33,ham
+463,Team update,147.0,0.0,0,7.0,0,promo.net,14,ham
+464,Free vacation,252.0,3.0,9,27.0,1,offers.org,100,spam
+465,Birthday wishes,44.0,2.0,2,23.0,1,promo.net,41,ham
+466,Project meeting,67.0,1.0,1,6.0,0,company.com,30,ham
+467,Urgent account update,82.0,4.0,8,52.0,1,offers.org,98,spam
+468,Team update,43.0,1.0,1,7.0,1,outlook.com,37,ham
+469,Limited time offer,93.0,2.0,5,88.0,1,offers.org,91,spam
+470,Birthday wishes,179.0,0.0,1,29.0,0,company.com,45,ham
+471,Project meeting,110.0,0.0,2,2.0,1,promo.net,33,ham
+472,Limited time offer,172.0,4.0,5,46.0,1,promo.net,100,spam
+473,Birthday wishes,82.0,0.0,0,5.0,1,offers.org,17,ham
+474,Free vacation,212.0,5.0,4,21.0,1,offers.org,100,spam
+475,Family dinner,157.0,0.0,2,23.0,0,company.com,45,ham
+476,Family dinner,82.0,2.0,0,14.0,0,company.com,25,ham
+477,Team update,87.0,2.0,1,22.0,1,offers.org,53,ham
+478,Win cash now,238.0,3.0,2,40.0,1,outlook.com,90,spam
+479,Class reminder,173.0,2.0,0,9.0,0,yahoo.com,52,ham
+480,Family dinner,89.0,1.0,0,10.0,1,company.com,45,ham
+481,Free vacation,126.0,5.0,4,43.0,1,outlook.com,95,spam
+482,Monthly report,39.0,1.0,0,21.0,0,offers.org,28,ham
+483,Interview schedule,155.0,1.0,0,24.0,1,gmail.com,46,ham
+484,Interview schedule,179.0,2.0,0,6.0,0,outlook.com,43,ham
+485,Invoice attached,178.0,1.0,0,18.0,0,gmail.com,42,ham
+486,Claim your reward,228.0,4.0,2,42.0,1,yahoo.com,99,spam
+487,Invoice attached,114.0,2.0,1,5.0,0,yahoo.com,30,ham
+488,Birthday wishes,54.0,2.0,2,3.0,0,promo.net,33,ham
+489,Project meeting,40.0,2.0,2,23.0,1,offers.org,33,ham
+490,Exclusive deal,79.0,4.0,4,66.0,1,company.com,84,spam
+491,Click to verify,137.0,3.0,6,32.0,1,gmail.com,82,spam
+492,Click to verify,129.0,6.0,10,35.0,1,yahoo.com,100,spam
+493,Win cash now,189.0,4.0,7,45.0,1,yahoo.com,100,spam
+494,Family dinner,91.0,2.0,2,16.0,0,gmail.com,32,ham
+495,Win cash now,185.0,8.0,5,49.0,1,gmail.com,100,spam
+496,Urgent account update,67.0,2.0,8,86.0,1,gmail.com,100,spam
+497,Monthly report,51.0,2.0,2,6.0,0,company.com,41,ham
+498,Project meeting,92.0,0.0,2,10.0,0,gmail.com,19,ham
+499,Family dinner,107.0,1.0,0,25.0,1,promo.net,39,ham
+500,Lottery winner,164.0,2.0,3,51.0,1,company.com,86,spam
+501,Family dinner,118.0,0.0,0,6.0,0,offers.org,20,ham
+502,Monthly report,30.0,1.0,0,15.0,0,gmail.com,27,ham
+503,Invoice attached,42.0,1.0,1,2.0,0,promo.net,13,ham
+504,Birthday wishes,157.0,0.0,1,26.0,0,gmail.com,40,ham
+505,Family dinner,141.0,1.0,2,25.0,0,offers.org,53,ham
+506,Monthly report,47.0,1.0,0,7.0,0,promo.net,21,ham
+507,Birthday wishes,177.0,2.0,2,1.0,1,offers.org,60,ham
+508,Class reminder,127.0,1.0,0,7.0,0,offers.org,38,ham
+509,Team update,108.0,0.0,1,15.0,0,gmail.com,30,ham
+510,Urgent account update,177.0,3.0,7,89.0,1,company.com,100,spam
+511,Click to verify,218.0,2.0,6,62.0,1,gmail.com,99,spam
+512,Click to verify,164.0,7.0,10,50.0,1,gmail.com,100,spam
+513,Project meeting,126.0,0.0,1,8.0,0,company.com,26,ham
+514,Exclusive deal,216.0,5.0,6,83.0,1,yahoo.com,100,spam
+515,Invoice attached,71.0,1.0,2,0.0,0,company.com,17,ham
+516,Birthday wishes,174.0,2.0,1,23.0,0,offers.org,47,ham
+517,Team update,64.0,1.0,2,13.0,0,promo.net,37,ham
+518,Urgent account update,135.0,4.0,6,68.0,1,promo.net,98,spam
+519,Birthday wishes,156.0,1.0,2,0.0,0,offers.org,30,ham
+520,Birthday wishes,109.0,2.0,0,23.0,1,gmail.com,51,ham
+521,Project meeting,99.0,0.0,0,18.0,0,outlook.com,17,ham
+522,Interview schedule,91.0,2.0,2,0.0,1,promo.net,40,ham
+523,Team update,156.0,2.0,1,23.0,0,yahoo.com,46,ham
+524,Birthday wishes,42.0,2.0,1,28.0,0,company.com,42,ham
+525,Project meeting,71.0,1.0,2,16.0,0,offers.org,30,ham
+526,Interview schedule,128.0,1.0,2,5.0,0,yahoo.com,40,ham
+527,Exclusive deal,172.0,5.0,3,53.0,1,yahoo.com,100,spam
+528,Click to verify,128.0,2.0,5,77.0,1,promo.net,94,spam
+529,Class reminder,41.0,0.0,1,24.0,1,offers.org,35,ham
+530,Team update,49.0,1.0,1,11.0,1,promo.net,31,ham
+531,Monthly report,96.0,1.0,0,1.0,0,yahoo.com,31,ham
+532,Interview schedule,92.0,0.0,2,3.0,1,offers.org,23,ham
+533,Family dinner,75.0,2.0,2,23.0,0,outlook.com,44,ham
+534,Class reminder,132.0,1.0,1,25.0,0,yahoo.com,35,ham
+535,Family dinner,166.0,2.0,2,23.0,0,company.com,48,ham
+536,Free vacation,165.0,2.0,10,20.0,1,promo.net,85,spam
+537,Team update,84.0,2.0,2,8.0,0,company.com,34,ham
+538,Invoice attached,158.0,0.0,1,23.0,0,offers.org,47,ham
+539,Urgent account update,93.0,7.0,8,55.0,1,offers.org,100,spam
+540,Interview schedule,84.0,0.0,1,3.0,0,offers.org,24,ham
+541,Monthly report,122.0,0.0,2,16.0,0,gmail.com,30,ham
+542,Click to verify,221.0,8.0,4,77.0,1,yahoo.com,100,spam
+543,Click to verify,211.0,6.0,2,25.0,1,promo.net,100,spam
+544,Limited time offer,135.0,7.0,7,62.0,1,promo.net,100,spam
+545,Limited time offer,132.0,8.0,10,23.0,1,company.com,100,spam
+546,Urgent account update,168.0,4.0,3,55.0,1,offers.org,90,spam
+547,Team update,129.0,2.0,2,13.0,0,offers.org,37,ham
+548,Class reminder,94.0,0.0,2,15.0,0,outlook.com,30,ham
+549,Birthday wishes,78.0,1.0,2,6.0,0,outlook.com,23,ham
+550,Limited time offer,79.0,7.0,10,22.0,1,outlook.com,100,spam
+551,Invoice attached,97.0,0.0,2,24.0,0,offers.org,20,ham
+552,Project meeting,46.0,1.0,0,13.0,0,offers.org,30,ham
+553,Class reminder,71.0,2.0,2,10.0,0,yahoo.com,29,ham
+554,Claim your reward,236.0,4.0,8,23.0,1,offers.org,100,spam
+555,Class reminder,57.0,0.0,1,24.0,1,outlook.com,23,ham
+556,Class reminder,151.0,0.0,0,16.0,0,promo.net,31,ham
+557,Urgent account update,228.0,2.0,5,55.0,1,promo.net,100,spam
+558,Team update,71.0,1.0,0,4.0,0,gmail.com,16,ham
+559,Team update,37.0,0.0,0,14.0,0,company.com,19,ham
+560,Monthly report,112.0,1.0,2,17.0,1,outlook.com,57,ham
+561,Project meeting,92.0,0.0,1,12.0,0,gmail.com,29,ham
+562,Invoice attached,142.0,1.0,2,18.0,1,gmail.com,60,ham
+563,Project meeting,150.0,0.0,1,20.0,0,offers.org,43,ham
+564,Birthday wishes,66.0,0.0,1,19.0,1,gmail.com,27,ham
+565,Invoice attached,31.0,1.0,2,25.0,0,offers.org,38,ham
+566,Free vacation,111.0,8.0,2,24.0,1,outlook.com,97,spam
+567,Limited time offer,258.0,7.0,2,72.0,1,yahoo.com,100,spam
+568,Win cash now,182.0,8.0,3,32.0,1,company.com,100,spam
+569,Family dinner,161.0,2.0,0,16.0,1,gmail.com,40,ham
+570,Monthly report,158.0,2.0,2,19.0,0,offers.org,44,ham
+571,Interview schedule,147.0,1.0,2,0.0,0,gmail.com,31,ham
+572,Birthday wishes,83.0,0.0,2,20.0,0,offers.org,29,ham
+573,Monthly report,169.0,2.0,1,21.0,0,gmail.com,49,ham
+574,Monthly report,52.0,1.0,1,9.0,0,yahoo.com,16,ham
+575,Class reminder,79.0,0.0,0,2.0,0,gmail.com,21,ham
+576,Lottery winner,176.0,5.0,5,30.0,1,gmail.com,94,spam
+577,Project meeting,64.0,2.0,0,5.0,0,outlook.com,17,ham
+578,Interview schedule,106.0,1.0,0,10.0,1,gmail.com,32,ham
+579,Birthday wishes,113.0,1.0,0,0.0,1,promo.net,24,ham
+580,Exclusive deal,144.0,2.0,5,63.0,1,gmail.com,94,spam
+581,Win cash now,140.0,5.0,7,66.0,1,gmail.com,100,spam
+582,Click to verify,101.0,3.0,10,26.0,1,offers.org,96,spam
+583,Lottery winner,192.0,7.0,3,47.0,1,company.com,100,spam
+584,Project meeting,96.0,1.0,2,3.0,0,promo.net,33,ham
+585,Family dinner,102.0,1.0,0,10.0,0,gmail.com,19,ham
+586,Invoice attached,96.0,2.0,2,20.0,0,offers.org,36,ham
+587,Team update,107.0,0.0,0,23.0,0,promo.net,15,ham
+588,Free vacation,96.0,6.0,3,83.0,1,offers.org,100,spam
+589,Interview schedule,145.0,0.0,0,8.0,0,outlook.com,27,ham
+590,Family dinner,143.0,2.0,0,27.0,1,yahoo.com,58,ham
+591,Project meeting,129.0,0.0,0,27.0,0,yahoo.com,30,ham
+592,Win cash now,108.0,2.0,3,40.0,1,offers.org,75,spam
+593,Urgent account update,106.0,2.0,4,81.0,1,gmail.com,77,spam
+594,Free vacation,205.0,6.0,5,27.0,1,gmail.com,100,spam
+595,Claim your reward,150.0,4.0,10,42.0,1,company.com,100,spam
+596,Interview schedule,124.0,1.0,0,16.0,0,company.com,28,ham
+597,Lottery winner,255.0,2.0,5,44.0,1,company.com,98,spam
+598,Invoice attached,150.0,1.0,0,1.0,0,offers.org,32,ham
+599,Invoice attached,102.0,0.0,1,14.0,1,gmail.com,26,ham
+600,Birthday wishes,53.0,1.0,0,15.0,1,company.com,28,ham

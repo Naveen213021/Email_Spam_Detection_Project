@@ -1,4 +1,5 @@
-# Email Spam Detection - Part 1: Data Acquisition, Cleaning and Exploratory Data Analysis
+# Email Spam Detection using Machine Learning and LLM
+# Part 1: Data Acquisition, Cleaning and Exploratory Data Analysis
 
 ## Project Overview
 
